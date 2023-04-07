@@ -2,9 +2,10 @@
 layout: page
 icon: fas fa-tag
 order: 2
+title: Recimeal Retrospective
 ---
 
-# Recimeal Retrospective
+<!-- # Recimeal Retrospective -->
 
 **Part 1 - Reflections**  There were some parts of the project that did not go as expected.
 - Implementing the database brought issues. At the last moments before we handed in iteration 2, it was discovered that some tests from iteration 1 had broken due to the addition of a non-stub database. We figured it was a problem connecting to the database in the test environment but there wasn't time to fix it so we removed those tests, which tanked the coverage of the logic layer. As soon as iteration 3 began the issue was fixed and more effort is being put into building and maintaining our tests. This iteration there are multiple people focused mainly on the tests.
