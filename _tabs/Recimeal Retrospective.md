@@ -1,6 +1,6 @@
 ---
 layout: page
-icon: fas fa-tag
+icon: fas fa-stream
 order: 2
 title: Recimeal Retrospective
 ---
