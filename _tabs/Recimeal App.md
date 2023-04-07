@@ -3,4 +3,6 @@ layout: page
 icon: fas fa-stream
 order: 1
 ---
-# we can show the demo of recimeal app here. (Video)
+
+# Mastering Your Meals: A Quick Guide to Using Recimeal App for Effortless Meal Planning
+
