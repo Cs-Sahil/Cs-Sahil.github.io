@@ -14,7 +14,7 @@ The Recimeal app includes a search option that allows users to find recipes that
 
 ### Filter The Recipes
 
-To filter the recipes, Recimeal have three buttons: "My Recipes," "Favourites," and "Ingredients." 
+To filter the recipes, Recimeal have three options: "My Recipes," "Favourites," and "Ingredients." 
 
 #### My Recipes
 
@@ -22,6 +22,7 @@ This feature displays all the recipes that the user has made. Simply turn on the
 
 #### Favourites
 
+Users can take advantage of this function to flag their recipes as favourites. For example, if a person is reading the recipe instructions for "Blueberry Cheesecake" and they enjoy it, they can mark it as a favourite by quickly turning on the favourite button under the recipe title. All the favourite recipes are seen on the homepage by turning on the favourites button and clicking the search icon.
 
 
 #### Ingredients
