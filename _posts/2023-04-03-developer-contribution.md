@@ -25,3 +25,8 @@ I gained valuable experience working on a project that involved designing the us
 **Alyssa**
 
 Through this project I learned skills for creating UI, adding its functionality, and polishing a finished product.  I made the display and logic for the search feature, the favourites feature, the create recipe feature and the search filters.  I also did much of the documentation required for each iteration, and stayed on top of helping to keep things organized.  I learned how the design and structure of an application is just as important as the actual code.  Perhaps most impactfully I gained valuable experience working with a group of strangers with limited time to create something that we can all be proud of.  Overall, I view our project as a success and it helped pique my interest in app development.
+
+
+**Sahil**
+
+The building process of the Recimeal was a very exciting. I gained knowledge about how to connect databases and use SQL statements, as well as how to create user interfaces and add functionality to them. I also created Recimeal's website and delete feature. I got a grasp of the SOLID and design principles that made the Recimeal app less prone to errors. The most useful lesson I think I learnt was working as a team for the first time on a really large project.
